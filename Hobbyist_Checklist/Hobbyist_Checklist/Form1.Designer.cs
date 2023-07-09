@@ -56,7 +56,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(183, 67);
             this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
+            this.button1.Text = "List1";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // vScrollBar1
@@ -88,6 +88,7 @@
             // listView1
             // 
             this.listView1.BackColor = System.Drawing.SystemColors.Control;
+            this.listView1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.listView1.Location = new System.Drawing.Point(6, 12);
             this.listView1.Name = "listView1";
             this.listView1.Size = new System.Drawing.Size(583, 98);

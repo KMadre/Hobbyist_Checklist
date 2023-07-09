@@ -48,7 +48,6 @@
             this.NameLabel.Size = new System.Drawing.Size(35, 20);
             this.NameLabel.TabIndex = 0;
             this.NameLabel.Text = "Test";
-            this.NameLabel.Click += new System.EventHandler(this.label1_Click);
             // 
             // Image
             // 
