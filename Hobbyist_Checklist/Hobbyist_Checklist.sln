@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hobbyist_Checklist", "Hobbyist_Checklist\Hobbyist_Checklist.csproj", "{E764E53E-5858-411E-98C9-5E99915F4CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobbyFactory", "HobbyFactory\HobbyFactory.csproj", "{C99E0BFE-9274-4A81-BB84-F8F110C9B3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E764E53E-5858-411E-98C9-5E99915F4CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E764E53E-5858-411E-98C9-5E99915F4CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E764E53E-5858-411E-98C9-5E99915F4CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E764E53E-5858-411E-98C9-5E99915F4CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99E0BFE-9274-4A81-BB84-F8F110C9B3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99E0BFE-9274-4A81-BB84-F8F110C9B3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99E0BFE-9274-4A81-BB84-F8F110C9B3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99E0BFE-9274-4A81-BB84-F8F110C9B3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D343543F-6182-496A-93A0-B8873D9D54A7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\bin\Debug\net6.0\HobbyFactory.deps.json
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\bin\Debug\net6.0\HobbyFactory.dll
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\bin\Debug\net6.0\HobbyFactory.pdb
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\HobbyFactory.csproj.AssemblyReference.cache
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\HobbyFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\HobbyFactory.AssemblyInfoInputs.cache
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\HobbyFactory.AssemblyInfo.cs
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\HobbyFactory.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\HobbyFactory.dll
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\refint\HobbyFactory.dll
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\HobbyFactory.pdb
+C:\Users\Kieran\Desktop\hobbyistChecklist\Hobbyist_Checklist\HobbyFactory\obj\Debug\net6.0\ref\HobbyFactory.dll
